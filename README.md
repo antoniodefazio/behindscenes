@@ -6,3 +6,6 @@ This is an interesting article about Spring Boot: https://github.com/antoniodefa
 
 This is an interesting article about Docker, the result of personal research: https://github.com/antoniodefazio/behindscenes/blob/master/docker-behind.pdf
 
+This is an interesting article about Kafka, the result of personal research:
+https://github.com/antoniodefazio/kafkatips
+https://www.linkedin.com/pulse/idempotence-kafka-consumers-provided-at-least-once-message-de-fazio-jqnwe
