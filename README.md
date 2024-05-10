@@ -19,7 +19,7 @@ https://github.com/antoniodefazio/kafkatips
 
 https://www.linkedin.com/pulse/idempotence-kafka-consumers-provided-at-least-once-message-de-fazio-jqnwe
 
-# Kubernetes Openshift GKE EKS
+# Kubernetes, Openshift, GKE, EKS
 
 This is an interesting article about the creation of a zero-cost distributed cache that works on all managed # Kubernetes services: Openshift, GKE, EKS and so on, via Jgroups Java library in conjunction with Infinispan inside a Spring Boot project
 
