@@ -27,6 +27,6 @@ https://github.com/antoniodefazio/cachenocosts
 
 ## Machine Learning
 
-This article is teaches how to create from scratch a Machine Learning Decisional Tree in Java from training data. Concrete example of bank loan payment forecast
+This article explains how to create from scratch a Machine Learning Decisional Tree in Java from training data. Concrete example of bank loan payment forecast
 
 https://github.com/antoniodefazio/mltraining
