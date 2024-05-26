@@ -13,7 +13,7 @@ result of personal research: https://github.com/antoniodefazio/behindscenes/blob
 
 # Kafka 
 
-This is an interesting article about Kafka, result of personal research:
+This is an article about Kafka, result of personal research:
 
 https://github.com/antoniodefazio/kafkatips
 
@@ -24,3 +24,9 @@ https://www.linkedin.com/pulse/idempotence-kafka-consumers-provided-at-least-onc
 This is an interesting article about the creation of a zero-cost distributed cache that works on all managed Kubernetes services: Openshift, GKE, EKS and so on, via Jgroups Java library in conjunction with Infinispan inside a Spring Boot project
 
 https://github.com/antoniodefazio/cachenocosts
+
+# Machine Learning
+
+This article is teaches how to create from scratch a Machine Learning Decisional Tree in Java from training data. Concrete example of bank loan payment forecast
+
+https://github.com/antoniodefazio/mltraining
