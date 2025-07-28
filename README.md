@@ -30,3 +30,9 @@ https://github.com/antoniodefazio/cachenocosts
 This article explains how to create from scratch a Machine Learning Decisional Tree in Java from training data. Concrete example of bank loan payment forecast
 
 https://github.com/antoniodefazio/mltraining
+
+## Java interface and Spring Data
+
+The power of Java interface and Generics in Spring Boot: parameterize the Spring Data Repository so that it can easily switch to different SQL databases or to NoSql (MongoDb) without having to change the business logic (Service layer)
+
+https://github.com/antoniodefazio/mqttinterface/blob/master/README.md
