@@ -11,7 +11,7 @@ https://github.com/antoniodefazio/behindscenes/blob/master/SPRING_Boot.pdf
 This is an interesting article about Docker
 result of personal research: https://github.com/antoniodefazio/behindscenes/blob/master/docker-behind.pdf
 
-## Kafka 
+## Kafka: Idempotence of Kafka consumers
 
 This is an article about Kafka, result of personal research:
 
@@ -19,19 +19,19 @@ https://github.com/antoniodefazio/kafkatips
 
 https://www.linkedin.com/pulse/idempotence-kafka-consumers-provided-at-least-once-message-de-fazio-jqnwe
 
-## Kubernetes, Openshift, GKE, EKS
+## Kubernetes, Openshift, GKE, EKS: Zero-cost distributed cache
 
 This is an interesting article about the creation of a zero-cost distributed cache that works on all managed Kubernetes services: Openshift, GKE, EKS and so on, via Jgroups Java library in conjunction with Infinispan inside a Spring Boot project
 
 https://github.com/antoniodefazio/cachenocosts
 
-## Machine Learning
+## Machine Learning: Decisional Tree in Java
 
 This article explains how to create from scratch a Machine Learning Decisional Tree in Java from training data. Concrete example of bank loan payment forecast
 
 https://github.com/antoniodefazio/mltraining
 
-## Java interface and Spring Data
+## Java interface and Spring Data: Parameterize the Spring Data Repository with Interface
 
 The power of Java interface and Generics in Spring Boot: parameterize the Spring Data Repository so that it can easily switch to different SQL databases or to NoSql (MongoDb) without having to change the business logic (Service layer)
 
